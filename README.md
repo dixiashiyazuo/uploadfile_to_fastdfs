@@ -5,10 +5,10 @@
 使用时修改demo.html：
 
 
-		uploader:'http://11.12.112.228/upload',//fastdfs+nginx的文件上传url
-		uploadfirst:'http://11.12.112.228/upload',//fastdfs+nginx的文件上传url
-		uploadappend:'http://11.12.112.228/append/',//fastdfs+nginx的文件追加url
-		uploadinfo:'http://11.12.112.228/info/',//fastdfs+nginx的文件查询url
+		uploader:'http://服务器地址/upload',//fastdfs+nginx的文件上传url
+		uploadfirst:'http://服务器地址/upload',//fastdfs+nginx的文件上传url
+		uploadappend:'http://服务器地址/append/',//fastdfs+nginx的文件追加url
+		uploadinfo:'http://服务器地址/info/',//fastdfs+nginx的文件查询url
 		
 		
 		
